@@ -1,0 +1,5 @@
+X=msgbox("a system error has ben detected",16+0,"Fatal error")
+X=msgbox("a system error has ben detected",16+0,"Fatal error")
+X=msgbox("a system error has ben detected",16+0,"Fatal error")
+X=msgbox("a system error has ben detected",16+0,"Fatal error")
+X=msgbox("a system error has ben detected",16+0,"Fatal error")
